@@ -2,7 +2,7 @@
 
 > This is an example project based on Nuxt.js that generates static semi-blog pages and also handles dynamic routes.
 
-> You can use this project a a boilerplate for the above mentioned functionality.
+> You can use this project as a boilerplate for the above mentioned functionality.
 
 > Author : Farzad Soltani
 
