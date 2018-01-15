@@ -4,6 +4,8 @@
 
 > You can use this project a a boilerplate for the above mentioned functionality.
 
+> Author : Farzad Soltani
+
 ## Build Setup
 
 ``` bash
